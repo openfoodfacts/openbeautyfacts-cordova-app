@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-ms.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-ms.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -64,8 +64,8 @@ msgid "Search a product by name or brand:"
 msgstr "Cari produk mengikut nama atau jenama:"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
-msgstr "Memuatkan produk dari pangkalan data Open Food Facts"
+msgid "Loading product from the Open Beauty Facts database"
+msgstr "Memuatkan produk dari pangkalan data Open Beauty Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -134,10 +134,10 @@ msgstr "Gelintar"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"Belum ada akaun lagi? <a href=\"http://world-ms.openfoodfacts.org/cgi/user."
+"Belum ada akaun lagi? <a href=\"http://world-ms.openbeautyfacts.org/cgi/user."
 "pl\" target=\"_blank\">Cipta akaun baharu</a>"
 
 #: .msg_add_product_without_barcode
@@ -157,10 +157,10 @@ msgid "Hello"
 msgstr ""
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 msgstr ""
-"<img src=\"openfoodfacts-logo-ms.png\" alt=\"Open Food Facts\" /><br /><p>"
-"Open Food Facts menghimpun maklumat dan data produk makanan dari serata "
+"<img src=\"openbeautyfacts-logo-ms.png\" alt=\"Open Beauty Facts\" /><br /><p>"
+"Open Beauty Facts menghimpun maklumat dan data produk makanan dari serata "
 "dunia dalam pangkalan data bebas dan terbuka.</p>"
 
 #: .msg_search_title

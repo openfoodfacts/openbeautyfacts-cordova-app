@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-cs.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-cs.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -64,7 +64,7 @@ msgid "Search a product by name or brand:"
 msgstr "Hledat produkt pomocí jména nebo značky:"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
+msgid "Loading product from the Open Beauty Facts database"
 msgstr "Načítání produktu z Otevřené databáze informací o jídle"
 
 #: .msg_hello
@@ -134,10 +134,10 @@ msgstr "Vyhledávat"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"Nemáte účet? <a href=\"http://world-cs.openfoodfacts.org/cgi/user.pl\" "
+"Nemáte účet? <a href=\"http://world-cs.openbeautyfacts.org/cgi/user.pl\" "
 "target=\"_blank\">Vytvořit účet</a>"
 
 #: .msg_add_product_without_barcode
@@ -157,9 +157,9 @@ msgid "Hello"
 msgstr ""
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 msgstr ""
-"<img src=\"openfoodfacts-logo-cs.png\" alt=\"Open Food Facts\" /><br /><p>"
+"<img src=\"openbeautyfacts-logo-cs.png\" alt=\"Open Beauty Facts\" /><br /><p>"
 "Otevřená databáze informací o jídle shromažďuje informace a údaje o "
 "potravinářských výrocích z celého světa ve svobodné a otevřené databázi.</p>"
 

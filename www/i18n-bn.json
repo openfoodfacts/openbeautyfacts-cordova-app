@@ -5,7 +5,7 @@
 	"msg_search_button" : "খুঁজুন",
 	"msg_scan_product" : "বারকোড স্ক্যান করে পণ্য খুঁজুন অথবা যোগ করুন",
 	"msg_scan" : "স্ক্যান",
-	"msg_description" : "<img src=openfoodfacts-logo-en.png alt=ওপেন ফুড ফা/><br /><p>Open Food Facts gathers information and data on food products from around the world in a free and open database.</p>",
+	"msg_description" : "<img src=openbeautyfacts-logo-en.png alt=ওপেন ফুড ফা/><br /><p>Open FoBeauty Facts gathers information and data on beauty products from around the world in a free and open database.</p>",
 	"msg_back" : "পিছনে যান",
 	"msg_close" : "বন্ধ করুন",
 	"msg_please_login" : "",

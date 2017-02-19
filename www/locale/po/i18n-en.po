@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -66,8 +66,8 @@ msgid "Search a product by name or brand:"
 msgstr "Search a product by name or brand:"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
-msgstr "Loading product from the Open Food Facts database"
+msgid "Loading product from the Open Beauty Facts database"
+msgstr "Loading product from the Open Beauty Facts database"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -136,10 +136,10 @@ msgstr "Search"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 
 #: .msg_add_product_without_barcode
@@ -159,8 +159,8 @@ msgid "Hello"
 msgstr "Hello"
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
-msgstr "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
+msgstr "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"

@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-ar.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-ar.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -64,7 +64,7 @@ msgid "Search a product by name or brand:"
 msgstr "البحث حسب اسم المنتج أو العلامة التجارية"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
+msgid "Loading product from the Open Beauty Facts database"
 msgstr "تحميل المنتوج من قاعدة البيانات حقائق مفتوحة عن الطعام"
 
 #: .msg_hello
@@ -134,10 +134,10 @@ msgstr "بحث "
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"ليس لديك حساب حتى الآن<a href=\"http://ar.openfoodfacts.org/cgi/user.pl\" "
+"ليس لديك حساب حتى الآن<a href=\"http://ar.openbeautyfacts.org/cgi/user.pl\" "
 "target=\"_blank\">إنشاء حساب</a>"
 
 #: .msg_add_product_without_barcode
@@ -157,9 +157,9 @@ msgid "Hello"
 msgstr ""
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 msgstr ""
-"<img src=\"openfoodfacts-logo-ar.png\" alt=\"Open Food Facts\" /><br /><p>"
+"<img src=\"openbeautyfacts-logo-ar.png\" alt=\"Open Beauty Facts\" /><br /><p>"
 "مكونات, قيمة غذائية و معلومات حول المنتجات الغذائية في العالم الكل في قاعدة "
 "بيانات حرة و مفتوحة</p>"
 

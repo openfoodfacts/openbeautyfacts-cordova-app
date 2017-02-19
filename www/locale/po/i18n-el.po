@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-el.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-el.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -64,8 +64,8 @@ msgid "Search a product by name or brand:"
 msgstr "Αναζήτηση προϊόντος με όνομα ή μάρκα:"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
-msgstr "Γίνεται φόρτωση προϊόντος από τη βάση δεδομένων του Open Food Facts"
+msgid "Loading product from the Open Beauty Facts database"
+msgstr "Γίνεται φόρτωση προϊόντος από τη βάση δεδομένων του Open Beauty Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -135,10 +135,10 @@ msgstr "Αναζήτηση"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"Δεν έχετε λογαριασμό; <a href=\"http://world-el.openfoodfacts.org/cgi/user."
+"Δεν έχετε λογαριασμό; <a href=\"http://world-el.openbeautyfacts.org/cgi/user."
 "pl\" target=\"_blank\">Δημιουργία λογαριασμού</a>"
 
 #: .msg_add_product_without_barcode
@@ -158,10 +158,10 @@ msgid "Hello"
 msgstr ""
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 msgstr ""
-"<img src=\"openfoodfacts-logo-el.png\" alt=\"Open Food Facts\" /><br /><p>Το "
-"Open Food Facts συλλέγει πληροφορίες και δεδομένα για προϊόντα διατροφής από "
+"<img src=\"openbeautyfacts-logo-el.png\" alt=\"Open Beauty Facts\" /><br /><p>Το "
+"Open Beauty Facts συλλέγει πληροφορίες και δεδομένα για προϊόντα διατροφής από "
 "όλο τον κόσμο σε μια ελεύθερη και ανοικτή βάση δεδομένων.</p>"
 
 #: .msg_search_title

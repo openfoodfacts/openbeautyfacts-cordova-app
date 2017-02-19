@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-sr@latin.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-sr@latin.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -64,8 +64,8 @@ msgid "Search a product by name or brand:"
 msgstr "Тражи артикал по имену или бренду:"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
-msgstr "Učavanje artikala iz Open Food Facts baze podataka"
+msgid "Loading product from the Open Beauty Facts database"
+msgstr "Učavanje artikala iz Open Beauty Facts baze podataka"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -134,11 +134,11 @@ msgstr "Traži"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
 "Idalje nemate korisnički račun? <a href=\"http://world-"
-"sr@latin.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Registrujte "
+"sr@latin.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Registrujte "
 "korisnicki račun</a>"
 
 #: .msg_add_product_without_barcode
@@ -158,10 +158,10 @@ msgid "Hello"
 msgstr ""
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 msgstr ""
-"<img src=\"openfoodfacts-logo-sr@latin.png\" alt=\"Open Food Facts\" /><br "
-"/><p>Open Food Facts sakuplja informacije i podatke o hranjljivim artiklima "
+"<img src=\"openbeautyfacts-logo-sr@latin.png\" alt=\"Open Beauty Facts\" /><br "
+"/><p>Open Beauty Facts sakuplja informacije i podatke o hranjljivim artiklima "
 "iz celog sveta u besplatnu i otvorenu bazu podataka.</p>"
 
 #: .msg_search_title

@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-or.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-or.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -64,7 +64,7 @@ msgid "Search a product by name or brand:"
 msgstr "କୌଣସି ଉତ୍ପାଦର ନାମ ସନ୍ଧାନ କରନ୍ତୁ"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
+msgid "Loading product from the Open Beauty Facts database"
 msgstr "ମୁକ୍ତ ଖାଦ୍ୟ ତଥ୍ୟର ତଥ୍ୟାଗାରରୁ ଉତ୍ପାଦ ଜମା ହେଉଛି"
 
 #: .msg_hello
@@ -134,10 +134,10 @@ msgstr "ସନ୍ଧାନ"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
-"ଖାତା ଖୋଲି ନାହାନ୍ତି କି ? <a href=\"http://world-or.openfoodfacts.org/cgi/user."
+"ଖାତା ଖୋଲି ନାହାନ୍ତି କି ? <a href=\"http://world-or.openbeautyfacts.org/cgi/user."
 "pl\" target=\"_blank\">ନୂଆ ଖାତାଟିଏ ଖୋଲନ୍ତୁ</a>"
 
 #: .msg_add_product_without_barcode
@@ -157,9 +157,9 @@ msgid "Hello"
 msgstr ""
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 msgstr ""
-"<img src=openfoodfacts-logo-en.png alt=ମୁକ୍ତ ଖାଦ୍ୟ ତଥ୍ୟ /><br /><p>ମୁକ୍ତ ଖାଦ୍"
+"<img src=openbeautyfacts-logo-en.png alt=ମୁକ୍ତ ଖାଦ୍ୟ ତଥ୍ୟ /><br /><p>ମୁକ୍ତ ଖାଦ୍"
 "ୟ ତଥ୍ୟ, ଦୁନିଆର କୋଣ ଅନୁକୋଣରୁ ଖାଦ୍ୟ ତଥା ଖାଦ୍ୟ ଉତ୍ପାଦ ବିଷୟରେ ଅନେକ ତଥ୍ୟ ସଂଗ୍ରହ "
 "କରେ.</p>"
 

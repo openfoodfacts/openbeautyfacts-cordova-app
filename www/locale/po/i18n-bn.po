@@ -1,4 +1,4 @@
-#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-bn.json
+#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-bn.json
 #, fuzzy
 msgid ""
 msgstr ""
@@ -64,7 +64,7 @@ msgid "Search a product by name or brand:"
 msgstr "নাম অথবা ব্র্যান্ড এর মাধ্যমে পণ্য খুঁজুন"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Food Facts database"
+msgid "Loading product from the Open Beauty Facts database"
 msgstr ""
 
 #: .msg_hello
@@ -134,7 +134,7 @@ msgstr "খুঁজুন"
 
 #: .msg_register
 msgid ""
-"No account yet? <a href=\"http://en.openfoodfacts.org/cgi/user.pl\" target=\""
+"No account yet? <a href=\"http://en.openbeautyfacts.org/cgi/user.pl\" target=\""
 "_blank\">Create an account</a>"
 msgstr ""
 
@@ -155,10 +155,10 @@ msgid "Hello"
 msgstr ""
 
 #: .msg_description
-msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 msgstr ""
-"<img src=openfoodfacts-logo-en.png alt=ওপেন ফুড ফা/><br /><p>Open Food Facts "
-"gathers information and data on food products from around the world in a "
+"<img src=openbeautyfacts-logo-en.png alt=ওপেন ফুড ফা/><br /><p>Open Beauty Facts "
+"gathers information and data on beauty products from around the world in a "
 "free and open database.</p>"
 
 #: .msg_search_title
