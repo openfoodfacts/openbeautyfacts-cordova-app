@@ -7,7 +7,7 @@ jdk:
 
 android:
   components:
-    - build-tools-23.0.1
+    - build-tools-25.0.0
     - android-25
 notifications:
   slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
