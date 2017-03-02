@@ -4,7 +4,8 @@ node_js:
   - 5.5
 jdk:
   - oraclejdk8
-
+components:
+  - android-25
 notifications:
   slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
 
