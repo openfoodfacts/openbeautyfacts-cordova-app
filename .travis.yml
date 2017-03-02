@@ -1,13 +1,10 @@
-notifications:
-  slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
-
 language: android
 
 node_js:
   - 5.5
 
 notifications:
-  email: false
+  slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
 
 sudo: false
 
