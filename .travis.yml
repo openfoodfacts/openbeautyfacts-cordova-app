@@ -5,11 +5,8 @@ node_js:
 jdk:
   - oraclejdk8
 
-
 notifications:
   slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
-
-sudo: false
 
 branches:
   only:
