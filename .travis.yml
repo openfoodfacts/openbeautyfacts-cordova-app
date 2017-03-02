@@ -13,6 +13,9 @@ branches:
   - master
 
 install:
+  - export JAVA_HOME=/Library/java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home
+  - export PATH=$JAVA_HOME/bin:$PATH
+  - export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
   - npm cache clean
   - npm install
   - npm install -g cordova
