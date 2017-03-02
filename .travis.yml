@@ -2,6 +2,9 @@ language: android
 
 node_js:
   - 5.5
+jdk:
+  - oraclejdk8
+
 
 notifications:
   slack: openfoodfacts:pRddUFWA1nqbJ03sffyEzo18
@@ -13,9 +16,8 @@ branches:
   - master
 
 install:
-  - export JAVA_HOME=/Library/java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home
-  - export PATH=$JAVA_HOME/bin:$PATH
-  - export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+  - sudo apt-get update
+  - sudo apt-get install --only-upgrade -y oracle-java8-installer
   - npm cache clean
   - npm install
   - npm install -g cordova
