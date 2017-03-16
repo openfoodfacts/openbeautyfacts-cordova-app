@@ -1,0 +1,19 @@
+{
+  "name": "openbeautyfacts-cordova-app",
+  "version": "1.0.0",
+  "description": "Collaborative database of cosmetics",
+  "main": "www/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openfoodfacts/openbeautyfacts-cordova-app.git"
+  },
+  "author": "Open Food Facts",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/openfoodfacts/openbeautyfacts-cordova-app/issues"
+  },
+  "homepage": "https://github.com/openfoodfacts/openbeautyfacts-cordova-app"
+}
