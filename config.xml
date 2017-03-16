@@ -10,11 +10,21 @@
     <content src="index.html" />
     <access origin="*" />
 
-	<platform name="android">
+    <icon src="www/res/icons/icon-57.png" width="57" height="57" />
+    <platform name="android">
           <icon src="www/res/icons/android/drawable-ldpi/icon-36.png" density="ldpi" />
           <icon src="www/res/icons/android/drawable-mdpi/icon-48.png" density="mdpi" />
           <icon src="www/res/icons/android/drawable-hdpi/icon-72.png" density="hdpi" />
           <icon src="www/res/icons/android/drawable-xhdpi/icon-96.png" density="xhdpi" />
-	      <hook type="before_compile" src="overwrite_beep.js" />
+	  <hook type="before_compile" src="overwrite_beep.js" />
+    </platform>
+    <platform name="ios">
+          <splash src="www/res/icons/ios/Default@2x~universal~anyany.png" />
+          <icon src="www/res/icons/ios/icon-72.png" width="72" height="72" />
+          <icon src="www/res/icons/ios/icon-72@2x.png" width="144" height="144" />
+          <preference name="StatusBarOverlaysWebView" value="false" />
+          <preference name="StatusBarBackgroundColor" value="#000000" />
+          <preference name="StatusBarStyle" value="lightcontent" />
+	  <hook type="before_compile" src="overwrite_beep_ios.js" />
     </platform>
 </widget>

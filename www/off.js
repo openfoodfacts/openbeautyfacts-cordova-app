@@ -339,7 +339,7 @@ for (var i = 0; i < length; i++) {
 		  console.log("Scanning failed: " + error);
       },
       {
-          "preferFrontCamera" : true, // iOS and Android
+          "preferFrontCamera" : false, // iOS and Android
           "showFlipCameraButton" : true, // iOS and Android
           "prompt" : "Place a barcode inside the scan area", // supported on Android only
           "formats" : "UPC_E,UPC_A,EAN_8,EAN_13,CODE_128,CODE_39,CODE_93,CODABAR,ITF,RSS14,RSS_EXPANDED", // default: all but PDF_417 and RSS_EXPANDED
