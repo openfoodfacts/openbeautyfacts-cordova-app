@@ -590,6 +590,7 @@ function captureSuccess(mediaFiles) {
     console.log('captureSuccess - start');    
     var i, len;
     for (i = 0, len = mediaFiles.length; i < len; i += 1) {
+		console.log('uploading file ' + i);
         uploadFile(mediaFiles[i]);
     }       
 }
@@ -637,7 +638,7 @@ function getImage() {
 //        path = mediaFile.fullPath,
 //        name = mediaFile.name;
         
-function uploadFile(path) {
+function uploadFile_old_file_transfer_plugin(path) {
      
 	var name = path;
 	name = name.replace(/.*\//, "");
@@ -670,8 +671,8 @@ function uploadFile(path) {
         	uploads_in_progress--;
             console.log('Upload success: ' + result.responseCode);
             console.log(result.bytesSent + ' bytes sent');
-            $('#' + uploading).html("<p>" + $.i18n("msg_uploaded") + "</p>");        
-        },
+            $('#' + uploading).html("<p>" + $.i18n("msg_uploaded") + "</p>");
+		},
         function(error) {
         	uploads_in_progress--;
             console.log('Error uploading file - path:' + path + ' - error code: ' + error.code);
@@ -686,7 +687,102 @@ function uploadFile(path) {
 }
     
     
+function uploadFile(path) {
 
+console.log("UploadFile, path: " + path);
+
+window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, function (fs) {
+    console.log('file system open: ' + fs.name);
+	// remove file://
+	var new_path = path.replace(/file:\/\//, "");
+
+	var name = path;
+	name = name.replace(/.*\//, "");
+	
+	var filename = name.replace(/\./, "_");
+	var uploading = "uploading_" + filename;
+	
+	if ($(uploading).length <= 0) {
+		$('#upload_image_result').append("<p id=\"" + uploading + "\"></p>");
+	}
+	$('#' + uploading).html('<img src="loading2.gif" style="margin-right:10px" />' + $.i18n("msg_uploading"));	
+	
+	console.log("UploadFile, new path: " + new_path, " - filename: " + name);
+	
+	window.resolveLocalFileSystemURL(path, function (fileEntry) {
+    // fs.root.getFile(new_path, { create: true, exclusive: false }, function (fileEntry) {
+        fileEntry.file(function (file) {
+            var reader = new FileReader();
+            reader.onloadend = function() {
+                // Create a blob based on the FileReader "result", which we asked to be retrieved as an ArrayBuffer
+				console.log("new blob");
+                var blob = new Blob([new Uint8Array(this.result)], { type: "image/jpeg" });
+				
+				var formData = new FormData();
+				
+				formData.append("imagefield", "front");
+				formData.append("code", code);
+				if (window.localStorage.getItem("user_id")) {
+					formData.append("user_id", window.localStorage.getItem("user_id"));
+					formData.append("password", window.localStorage.getItem("password"));
+				}
+				
+				formData.append("imgupload_front", blob);
+
+                //var oReq = new XMLHttpRequest();
+                //oReq.open("POST", "https://world-" + lc + ".openbeautyfacts.org/cgi/product_image_upload.pl", true);
+                //oReq.onload = function (oEvent) {
+                    // all done!
+				//	console.log("all done");
+                //};
+                // Pass the blob in to XHR's send method
+				//console.log("send blob");
+
+                //oReq.send(formData);
+				
+				console.log("ajax call");
+				
+				 $.ajax({ // create an AJAX call...
+						data: formData, // get the form data
+						contentType: false,
+						processData: false,
+						type: "POST", // GET or POST
+						url: "https://world-" + lc + ".openbeautyfacts.org/cgi/product_image_upload.pl", // the file to call
+						success: function(data, status, jq) { // on success..
+							console.log("image_upload - ajax_call - success - status: " + status);
+
+
+        	uploads_in_progress--;
+            console.log('Upload success: ' + status);
+            console.log(result.bytesSent + ' bytes sent');
+            $('#' + uploading).html("<p>" + $.i18n("msg_uploaded") + "</p>");
+			
+						},
+						error: function(jq,status,message) {
+							console.log("image_upload - ajax_call" + 'A jQuery error has occurred. Status: ' + status + ' - Message: ' + message);
+
+        	uploads_in_progress--;
+            console.log('Error uploading file - path:' + path + ' - error code: ' + status);
+            $('#' + uploading).html("<p>" + $.i18n("msg_upload_problem") + "<input id=\"" + uploading + "_retry\" type=\"button\" value=\"" + $.i18n("msg_upload_retry") + "\"\" ></p>");
+            $('#' + uploading + "_retry").click(function() {
+  				uploadFile(path);
+			});
+        },								
+							
+						
+					});				
+				
+				uploads_in_progress++;
+            };
+            // Read the file as an ArrayBuffer
+			console.log("read file");
+            reader.readAsArrayBuffer(file);
+        }, function (err) { console.error('error getting fileentry file!' + err.toString()); });
+    }, function (err) { console.error('error getting file! ' + err.toString()); console.error('error getting file! ' + err.message); console.error('error getting file! ' + err.code); });
+	
+}, function (err) { console.error('error getting persistent fs! ' + err.toString()); });
+
+}
 	
 
 
