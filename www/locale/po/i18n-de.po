@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 10:30-0500\n"
+"PO-Revision-Date: 2018-01-31 16:43-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -27,7 +27,7 @@ msgstr "Scannen"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Barcode: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -39,7 +39,7 @@ msgstr "Das Bild wurde erhalten, danke!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Die Datenbank ist aktuell."
 
 #: .msg_back
 msgid "Back"
@@ -47,11 +47,7 @@ msgstr "Zurück"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
-
-#: .%241+has+%242+%7B%7Bplural%3A%242%7Ckitten%7Ckittens%7D%7D.+%7B%7Bgender%3A%243%7CHe%7CShe%7D%7D+loves+to+play+with+%7B%7Bplural%3A%242%7Cit%7Cthem%7D%7D.
-msgid "$1 has $2 {{plural:$2|kitten|kittens}}. {{gender:$3|He|She}} loves to play with {{plural:$2|it|them}}."
-msgstr ""
+msgstr "Datenbankaktualisierung läuft."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -79,15 +75,15 @@ msgstr "Parameter"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Benutzername:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Mehr Informationen"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Sprachausgabe:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
