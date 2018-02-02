@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-02 08:11-0500\n"
+"PO-Revision-Date: 2018-02-02 08:20-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -35,7 +35,7 @@ msgstr "Jelszó:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
-msgstr ""
+msgstr "Kép elfogadva, köszönjük!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
@@ -59,11 +59,11 @@ msgstr "Kijelentkezés"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr ""
+msgstr "Termék keresése név vagy márkanév alapján:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Beauty Facts database"
-msgstr ""
+msgstr "Termék betöltése az Open Beauty Facts adatbázisából"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -79,7 +79,7 @@ msgstr "Felhasználói név:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "További információ"
 
 #: .msg_speech
 msgid "Text to speech:"
