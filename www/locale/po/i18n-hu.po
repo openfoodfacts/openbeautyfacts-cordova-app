@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-02 08:30-0500\n"
+"PO-Revision-Date: 2018-02-02 08:40-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -91,11 +91,11 @@ msgstr ""
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr ""
+msgstr "Küldés folyamatban"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
-msgstr ""
+msgstr "A kép nem küldhető el"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
@@ -152,7 +152,7 @@ msgstr "Helló"
 
 #: .msg_description
 msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
-msgstr ""
+msgstr "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
