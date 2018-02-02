@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-02 08:00-0500\n"
+"PO-Revision-Date: 2018-02-02 08:11-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgstr "Keresés folyamatban"
 
 #: .msg_scan
 msgid "Scan"
-msgstr ""
+msgstr "Beolvasás"
 
 #: .msg_barcode
 msgid "Barcode: $1"
@@ -71,11 +71,11 @@ msgstr "Helló $1!"
 
 #: .msg_parameters
 msgid "Parameters"
-msgstr ""
+msgstr "Paraméterek"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Felhasználói név:"
 
 #: .msg_more_info
 msgid "More info"
@@ -123,7 +123,7 @@ msgstr "Termék $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr ""
+msgstr "Jelentkezzen be a termékek hozzáadásához vagy a termékoldalak szerkesztéséhez."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -132,11 +132,11 @@ msgstr "Keres"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Még nincs fiókja? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Hozzon létre egy fiókot</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
-msgstr ""
+msgstr "Vonalkód nélküli termék hozzáadása"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
