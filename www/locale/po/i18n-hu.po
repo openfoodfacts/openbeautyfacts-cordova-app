@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-02 08:20-0500\n"
+"PO-Revision-Date: 2018-02-02 08:30-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -83,7 +83,7 @@ msgstr "További információ"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Szövegfelolvasás (TTS):"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
@@ -99,15 +99,15 @@ msgstr ""
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr ""
+msgstr "Csatlakozás sikertelen: nincs hálózat?"
 
 #: .msg_upload_retry
 msgid "Retry"
-msgstr ""
+msgstr "Újra"
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 #: .msg_login
 msgid "Sign-in"
@@ -115,7 +115,7 @@ msgstr "Bejelentkezés"
 
 #: .msg_connecting
 msgid "Connecting"
-msgstr ""
+msgstr "Csatlakozás"
 
 #: .msg_product_title
 msgid "Product $1"
