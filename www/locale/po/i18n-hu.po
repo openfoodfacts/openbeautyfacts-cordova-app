@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 16:43-0500\n"
+"PO-Revision-Date: 2018-02-02 07:51-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr ""
+msgstr "Keresés folyamatban"
 
 #: .msg_scan
 msgid "Scan"
@@ -27,11 +27,11 @@ msgstr ""
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr ""
+msgstr "Vonalkód: $1"
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Jelszó:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
@@ -39,11 +39,11 @@ msgstr ""
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "Az adatbázis naprakész."
 
 #: .msg_back
 msgid "Back"
-msgstr ""
+msgstr "Vissza"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
