@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-02 08:40-0500\n"
+"PO-Revision-Date: 2018-02-02 08:50-0500\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
@@ -140,11 +140,11 @@ msgstr "Vonalkód nélküli termék hozzáadása"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Vonalkód beolvasása a termék megtalálásához vagy hozzáadásához."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr ""
+msgstr "Vonalkód beolvasása a termék megtalálásához vagy hozzáadásához:"
 
 #: .msg_tts_hello
 msgid "Hello"
@@ -161,5 +161,5 @@ msgstr "Keres"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr ""
+msgstr "Rossz felhasználói név vagy jelszó"
 
