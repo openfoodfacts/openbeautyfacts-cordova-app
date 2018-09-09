@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 15:23\n"
+"PO-Revision-Date: 2018-09-09 08:16\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgstr "Ein Produkt nach Namen oder Marke suchen:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Beauty Facts database"
-msgstr "Ladung der Produkte der Open Beauty Facts Datenbank"
+msgstr "Produkte aus der Open Beauty Facts Datenbank werden geladen"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -132,7 +132,7 @@ msgstr "Suchen"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Noch kein Konto? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Jetzt registrieren</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
