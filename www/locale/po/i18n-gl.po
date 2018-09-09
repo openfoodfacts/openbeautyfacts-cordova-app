@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 16:43-0500\n"
+"PO-Revision-Date: 2018-09-07 15:23\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Galician\n"
 "MIME-Version: 1.0\n"
@@ -39,7 +39,7 @@ msgstr "Recibiuse a imaxe, grazas."
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr ""
+msgstr "A base de datos está actualizada."
 
 #: .msg_back
 msgid "Back"
@@ -47,7 +47,7 @@ msgstr "Volver"
 
 #: .msg_tts_database_sync_in_progress
 msgid "Database update in progress."
-msgstr ""
+msgstr "Actualización da base de datos en proceso."
 
 #: .msg_language
 msgid "Preferred language:"
@@ -75,19 +75,19 @@ msgstr "Parámetros"
 
 #: .msg_userid
 msgid "Username:"
-msgstr ""
+msgstr "Nome de usuaria:"
 
 #: .msg_more_info
 msgid "More info"
-msgstr ""
+msgstr "Máis info"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr ""
+msgstr "Texto a fala:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr ""
+msgstr "Escanee un produto enfronte ao móbil"
 
 #: .msg_uploading
 msgid "Sending in progress"
@@ -140,7 +140,7 @@ msgstr "Engadir un produto sen o código de barras"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr ""
+msgstr "Analizar o código de barras para atopar ou engadir un produto."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
