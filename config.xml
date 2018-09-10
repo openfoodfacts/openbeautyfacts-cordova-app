@@ -38,4 +38,5 @@
     <access origin="https://*.openfoodfacts.org" />
     <access origin="https://*.openbeautyfacts.org" />
     <engine name="browser" spec="^5.0.3" />
+    <engine name="ios" spec="~4.5.5" />
 </widget>
