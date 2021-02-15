@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 15:23\n"
+"PO-Revision-Date: 2018-10-21 15:06\n"
 "Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
 "Language-Team: Filipino\n"
 "MIME-Version: 1.0\n"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr "Sign-out"
+msgstr "Mag-sing out"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
