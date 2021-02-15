@@ -1,20 +1,22 @@
-#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
 msgid ""
 msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 15:23\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2021-02-15 08:07\n"
+"Last-Translator: \n"
 "Language-Team: Bulgarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: bg\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: bg_BG\n"
 
 #: .msg_search_in_progress
@@ -62,8 +64,8 @@ msgid "Search a product by name or brand:"
 msgstr "Търси продукт по име или марка:"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Beauty Facts database"
-msgstr "Зареждане на продукт от базата данни на Open Beauty Facts"
+msgid "Loading product from the Open Food Facts database"
+msgstr "Зареждане на продукт от базата данни на Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -131,8 +133,8 @@ msgid "Search"
 msgstr "Търси"
 
 #: .msg_register
-msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "Нямате все още акаунт?<a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Създайте акаунт</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -151,13 +153,13 @@ msgid "Hello"
 msgstr "Здравейте"
 
 #: .msg_description
-msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
-msgstr "<img src=\"openbeautyfacts-logo-bg.png\" alt=\"Open Beauty Facts\" /><br /><p>Open Beauty Facts предоставя информация и данни за хранителни продукти по целия свят от отворена и безплатна база от данни.</p>"
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-bg.png\" alt=\"Open Food Facts\" /><br /><p>Open Food Facts предоставя информация и данни за хранителни продукти по целия свят от отворена и безплатна база от данни.</p>"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "Търсене"
+msgstr "Търси"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"

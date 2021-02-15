@@ -1,20 +1,22 @@
-#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
 msgid ""
 msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-01-31 16:43-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2021-02-15 08:10\n"
+"Last-Translator: \n"
 "Language-Team: Irish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: ga-IE\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: ga_IE\n"
 
 #: .msg_search_in_progress
@@ -31,7 +33,7 @@ msgstr ""
 
 #: .msg_password
 msgid "Password:"
-msgstr ""
+msgstr "Pasfhocal:"
 
 #: .msg_uploaded
 msgid "Image received, thank you!"
@@ -62,12 +64,12 @@ msgid "Search a product by name or brand:"
 msgstr ""
 
 #: .msg_loading_product
-msgid "Loading product from the Open Beauty Facts database"
+msgid "Loading product from the Open Food Facts database"
 msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
-msgstr ""
+msgstr "Dia duit $1!"
 
 #: .msg_parameters
 msgid "Parameters"
@@ -107,11 +109,11 @@ msgstr ""
 
 #: .msg_close
 msgid "Close"
-msgstr ""
+msgstr "Dún"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr ""
+msgstr "Sínigh isteach"
 
 #: .msg_connecting
 msgid "Connecting"
@@ -119,7 +121,7 @@ msgstr ""
 
 #: .msg_product_title
 msgid "Product $1"
-msgstr ""
+msgstr "Táirge"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
@@ -128,10 +130,10 @@ msgstr ""
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr ""
+msgstr "Cuardaigh"
 
 #: .msg_register
-msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
 msgstr ""
 
 #: .msg_add_product_without_barcode
@@ -148,16 +150,16 @@ msgstr ""
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr ""
+msgstr "Dia dhuit"
 
 #: .msg_description
-msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
 msgstr ""
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr ""
+msgstr "Cuardaigh"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"

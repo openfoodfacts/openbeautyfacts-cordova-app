@@ -1,20 +1,22 @@
-#. extracted from /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openbeautyfacts-cordova/cordova-app/www/locale/json/i18n-en.json
+#. extracted from /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json, /Users/pierreslam/Desktop/openfoodfacts-cordova/cordova-app/www/locale/json/i18n-en.json
 msgid ""
 msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 15:50\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2021-02-15 08:14\n"
+"Last-Translator: \n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: es_ES\n"
 
 #: .msg_search_in_progress
@@ -27,7 +29,7 @@ msgstr "Escanear"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr "Código de barras: $ 1"
+msgstr "Código de barras: $1"
 
 #: .msg_password
 msgid "Password:"
@@ -59,11 +61,11 @@ msgstr "Cerrar sesión"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
-msgstr "Buscar producto por nombre o marca:"
+msgstr "Buscar un producto por nombre o marca:"
 
 #: .msg_loading_product
-msgid "Loading product from the Open Beauty Facts database"
-msgstr "Cargando producto desde la base de datos de Open Beauty Facts"
+msgid "Loading product from the Open Food Facts database"
+msgstr "Cargando producto desde la base de datos de Open Food Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -123,7 +125,7 @@ msgstr "Producto $1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr "Ingresa para agregar o editar productos."
+msgstr "Iniciar sesión para agregar o editar páginas de productos."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
@@ -131,8 +133,8 @@ msgid "Search"
 msgstr "Buscar"
 
 #: .msg_register
-msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "¿Aún no tienes cuenta? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Crear una cuenta</a>"
+msgid "No account yet? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
+msgstr "¿Aún no tienes cuenta? <a href=\"https://world.openfoodfacts.org/cgi/user.pl\" target=\"_blank\">Crear una cuenta</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -140,19 +142,19 @@ msgstr "Agregar un producto sin código de barras"
 
 #: .msg_scan_product_or_barcode
 msgid "Scan the barcode to find or add a product."
-msgstr "Escanear código de barras."
+msgstr "Escanea el código de barras para encontrar o añadir unproduc to."
 
 #: .msg_scan_product
 msgid "Scan the barcode to find or add a product:"
-msgstr "Escanear código de barras:"
+msgstr "Escanea el código de barras para encontrar o añadir un producto:"
 
 #: .msg_tts_hello
 msgid "Hello"
 msgstr "Hola"
 
 #: .msg_description
-msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
-msgstr "<img src=\"openbeautyfacts-logo-es.png\" alt=\"Open Beauty Facts\" /><br /><p>Open Beauty Facts recolecta información y datos de productos alimenticios de todo el mundo en una base de datos libre y abierta.</p>"
+msgid "<img src=\"openfoodfacts-logo-en.png\" alt=\"Open Food Facts\" />"
+msgstr "<img src=\"openfoodfacts-logo-es.png\" alt=\"Open Food Facts\" /><br /><p>Open Food Facts recolecta información y datos de productos alimenticios de todo el mundo en una base de datos libre y abierta.</p>"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
