@@ -4,26 +4,28 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-11 11:53-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2022-02-19 22:24\n"
+"Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: id_ID\n"
 
 #: .msg_search_in_progress
 msgid "Search in progress"
-msgstr "Cari sedang dalam proses"
+msgstr "Pencarian sedang berlangsung"
 
 #: .msg_scan
 msgid "Scan"
-msgstr "Scan"
+msgstr "Pindai"
 
 #: .msg_barcode
 msgid "Barcode: $1"
@@ -39,7 +41,7 @@ msgstr "Gambar diterima, terima kasih!"
 
 #: .msg_tts_database_sync_finished
 msgid "The database is up to date."
-msgstr "Database sudah up to date."
+msgstr "Basis data sudah diperbarui"
 
 #: .msg_back
 msgid "Back"
@@ -51,7 +53,7 @@ msgstr "Pembaruan basis data sedang berlangsung."
 
 #: .msg_language
 msgid "Preferred language:"
-msgstr "Pilihan bahasa:"
+msgstr "Bahasa utama:"
 
 #: .msg_logout
 msgid "Sign-out"
@@ -83,15 +85,15 @@ msgstr "Info lebih lanjut"
 
 #: .msg_speech
 msgid "Text to speech:"
-msgstr "Teks pidato:"
+msgstr "Teks ke ucapan:"
 
 #: .msg_tts_scan_product
 msgid "Scan a product in front of the phone"
-msgstr "Memindai produk di depan telepon"
+msgstr "Pindai produk di depan ponsel"
 
 #: .msg_uploading
 msgid "Sending in progress"
-msgstr "Pengiriman sedang berlangsung"
+msgstr "Free"
 
 #: .msg_upload_problem
 msgid "The image could not be sent"
@@ -99,7 +101,7 @@ msgstr "Gambar tidak bisa dikirim"
 
 #: .msg_connecting_failed
 msgid "Connecting failed: no network?"
-msgstr "Menghubungkan gagal: tidak ada jaringan?"
+msgstr "Sambungan gagal: tidak ada jaringan?"
 
 #: .msg_upload_retry
 msgid "Retry"
@@ -111,7 +113,7 @@ msgstr "Tutup"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr "memasuki"
+msgstr "Masuk"
 
 #: .msg_connecting
 msgid "Connecting"
@@ -123,12 +125,12 @@ msgstr "Produk $ 1"
 
 #: .msg_please_login
 msgid "Sign-in to add products or edit product pages."
-msgstr "Masuk untuk menambahkan produk atau mengedit halaman produk."
+msgstr "Masuk untuk menambahkan produk atau menyunting halaman produk."
 
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr "mencari "
+msgstr "Cari"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
@@ -157,9 +159,9 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "mencari "
+msgstr "Cari"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr "Nama pengguna atau kata sandi buruk"
+msgstr "Nama pengguna atau kata sandi salah"
 
