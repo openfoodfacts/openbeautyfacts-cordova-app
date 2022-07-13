@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: "npm"
     directory: "/" # Location of package manifests
     schedule:
-      interval: "daily"
+      interval: "monthly"
     commit-message:
       prefix: "chore"
       include: "scope"
