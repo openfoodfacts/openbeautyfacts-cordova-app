@@ -1,8 +1,6 @@
 Open Beauty Facts Cordova mobile app
 ==========================
 
-[![Build Status](https://travis-ci.org/openfoodfacts/cordova-app.svg?branch=master)](https://travis-ci.org/openfoodfacts/cordova-app) [![Stories in Ready](https://badge.waffle.io/openfoodfacts/cordova-app.svg?label=ready&title=Ready)](https://waffle.io/openfoodfacts/cordova-app)
-
 
 This application is based on [Apache Cordova](https://cordova.apache.org/)
 framework which allows you to develop for multiple platforms (iOS, Android,
