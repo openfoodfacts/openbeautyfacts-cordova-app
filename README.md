@@ -1,4 +1,4 @@
-Open Beauty Facts Cordova mobile app
+Open Beauty Facts Cordova mobile app (DEPRECATED, still in production on iOS)
 ==========================
 
 
@@ -76,12 +76,9 @@ Data about beauty products is of public interest and has to be open. The complet
 ### Translate Open Food Facts in your language
 
 You can help translate Open Food Facts and the app at (no technical knowledge required, takes a minute to signup): <br>
-https://translations.launchpad.net/openfoodfacts/openfoodfacts-ios/+translations
+https://translate.openfoodfacts.org
 
 ## Bugs and feature requests
 
 Have a bug or a feature request? Please search for existing and closed issues. If your problem or idea is not addressed yet, please open a new issue.
 
-## Waffle Throughput Graph
-
-[![Throughput Graph](https://graphs.waffle.io/openfoodfacts/cordova-app/throughput.svg)](https://waffle.io/openfoodfacts/cordova-app/metrics/throughput)
