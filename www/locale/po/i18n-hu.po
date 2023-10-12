@@ -4,17 +4,19 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-02-11 11:53-0500\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2022-02-18 23:22\n"
+"Last-Translator: \n"
 "Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: hu\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: hu_HU\n"
 
 #: .msg_search_in_progress
@@ -63,7 +65,7 @@ msgstr "Termék keresése név vagy márkanév alapján:"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Beauty Facts database"
-msgstr "Termék betöltése az Open Beauty Facts adatbázisából"
+msgstr ""
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -128,11 +130,11 @@ msgstr "Jelentkezzen be a termékek hozzáadásához vagy a termékoldalak szerk
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr "Keres"
+msgstr "Keresés"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr "Még nincs fiókja? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Hozzon létre egy fiókot</a>"
+msgstr ""
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -157,9 +159,9 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "Keres"
+msgstr "Keresés"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
-msgstr "Rossz felhasználói név vagy jelszó"
+msgstr "Rossz felhasználónév vagy jelszó"
 

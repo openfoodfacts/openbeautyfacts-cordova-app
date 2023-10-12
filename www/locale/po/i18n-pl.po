@@ -4,17 +4,19 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 15:22\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2022-02-18 23:24\n"
+"Last-Translator: \n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: pl\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: pl_PL\n"
 
 #: .msg_search_in_progress
@@ -23,7 +25,7 @@ msgstr "Wyszukiwanie w toku"
 
 #: .msg_scan
 msgid "Scan"
-msgstr "Skan"
+msgstr "Skanuj"
 
 #: .msg_barcode
 msgid "Barcode: $1"
@@ -111,7 +113,7 @@ msgstr "Zamknij"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr "Zaloguj"
+msgstr "Zaloguj się"
 
 #: .msg_connecting
 msgid "Connecting"
@@ -128,7 +130,7 @@ msgstr "Zaloguj się aby dodawać produkty lub edytować ich strony."
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr "Szukaj"
+msgstr "Wyszukiwanie"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
@@ -148,7 +150,7 @@ msgstr "Zeskanuj kod kreskowy aby znaleźć bądź dodać produkt:"
 
 #: .msg_tts_hello
 msgid "Hello"
-msgstr "Halo"
+msgstr "Witaj"
 
 #: .msg_description
 msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
@@ -157,7 +159,7 @@ msgstr ""
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "Szukaj"
+msgstr "Wyszukiwanie"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"

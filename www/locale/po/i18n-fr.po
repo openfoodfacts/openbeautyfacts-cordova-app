@@ -4,17 +4,19 @@ msgstr ""
 "Project-Id-Version: openfoodfacts\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-01-01 11:10+0200\n"
-"PO-Revision-Date: 2018-09-07 15:23\n"
-"Last-Translator: pierreslamich <pierre.slamich@gmail.com>\n"
+"PO-Revision-Date: 2022-02-19 22:23\n"
+"Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: crowdin.com\n"
+"X-Generator: Translate Toolkit 1.14.0-rc1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Crowdin-Project: openfoodfacts\n"
+"X-Crowdin-Project-ID: 243092\n"
 "X-Crowdin-Language: fr\n"
-"X-Crowdin-File: /master/www/locale/po/i18n-en.po\n"
+"X-Crowdin-File: i18n-en.po\n"
+"X-Crowdin-File-ID: 1944\n"
 "Language: fr_FR\n"
 
 #: .msg_search_in_progress
@@ -27,7 +29,7 @@ msgstr "Scanner"
 
 #: .msg_barcode
 msgid "Barcode: $1"
-msgstr "Code barre : $1"
+msgstr "Code-barres : $1"
 
 #: .msg_password
 msgid "Password:"
@@ -55,7 +57,7 @@ msgstr "Langue préférée :"
 
 #: .msg_logout
 msgid "Sign-out"
-msgstr "Déconnecter"
+msgstr "Se déconnecter"
 
 #: .msg_search
 msgid "Search a product by name or brand:"
@@ -63,7 +65,7 @@ msgstr "Trouver ou ajouter un produit par nom ou marque :"
 
 #: .msg_loading_product
 msgid "Loading product from the Open Beauty Facts database"
-msgstr "Recherche du produit dans la base Open Beauty Facts en cours"
+msgstr "Chargement du produit depuis la base de données Open Beauty Facts"
 
 #: .msg_hello
 msgid "Hello $1!"
@@ -111,7 +113,7 @@ msgstr "Fermer"
 
 #: .msg_login
 msgid "Sign-in"
-msgstr "S'identifier"
+msgstr "Se connecter"
 
 #: .msg_connecting
 msgid "Connecting"
@@ -128,11 +130,11 @@ msgstr "Connectez-vous pour ajouter des produits ou modifier leurs fiches."
 #: .msg_search_button
 msgctxt ".msg_search_button"
 msgid "Search"
-msgstr "Chercher"
+msgstr "Rechercher"
 
 #: .msg_register
 msgid "No account yet? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Create an account</a>"
-msgstr ""
+msgstr "Pas encore de compte? <a href=\"https://world.openbeautyfacts.org/cgi/user.pl\" target=\"_blank\">Créer un compte</a>"
 
 #: .msg_add_product_without_barcode
 msgid "Add a product without barcode"
@@ -152,12 +154,12 @@ msgstr "Bonjour"
 
 #: .msg_description
 msgid "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
-msgstr "<img src=\"openbeautyfacts-logo-fr.png\" alt=\"Open Beauty Facts\" />"
+msgstr "<img src=\"openbeautyfacts-logo-en.png\" alt=\"Open Beauty Facts\" />"
 
 #: .msg_search_title
 msgctxt ".msg_search_title"
 msgid "Search"
-msgstr "Recherche"
+msgstr "Rechercher"
 
 #: .msg_connecting_bad_password
 msgid "Bad username or password"
