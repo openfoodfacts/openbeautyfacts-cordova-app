@@ -1,6 +1,9 @@
 Open Beauty Facts Cordova mobile app (DEPRECATED, still in production on iOS)
 ==========================
 
+NOTE -- 2025/12/01 -- The Cordova app is deprecated and it will soon remove support for the specific API requests (with .jqm, returning jquery mobile HTML) it used.
+
+===
 
 This application is based on [Apache Cordova](https://cordova.apache.org/)
 framework which allows you to develop for multiple platforms (iOS, Android,
